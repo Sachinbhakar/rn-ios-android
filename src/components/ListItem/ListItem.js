@@ -12,7 +12,7 @@ const listItem = (props) => (
 
 const styles = StyleSheet.create({
 	listItem: {
-		width: "100%",
+		width: "90%",
 		padding: 10,
 		backgroundColor: "#eee",
 		flexDirection: "row",
